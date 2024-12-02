@@ -3,7 +3,7 @@
 title: Dr. Poonam Shivdutt Kumar (Prasad)
 
 # Role/position
-role: Principal Scientist 
+role: PhD Scholar 
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using the People widget.
 user_groups:
-- Principal Investigator & Faculty
+- Past Membars
 ---
 
-Dr. Barnwal is a outstanding scientist 
+
+Sr. Principal Scientist & Professor of ACSir
