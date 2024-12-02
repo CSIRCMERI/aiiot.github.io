@@ -14,8 +14,6 @@ organizations:
 bio: Project associate at CSIR-CMERI, Durgapur 
 
 interests:
-  - Computer Vision
-  - Machine Learning
 
 
 
