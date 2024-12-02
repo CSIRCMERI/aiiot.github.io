@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Auditi Kundi
+title: Auditi Kundu
 
 # Role/position
 role: Project Associate - II
