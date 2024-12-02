@@ -3,59 +3,58 @@
 title: Dr. Poonam Shivdutt Kumar (Prasad)
 
 # Role/position
-role: PhD Scholar 
+role: PhD Scholar
 
 # Organizations/Affiliations
 organizations:
 - name: CSIR-National Environment Engineering Research Institute
   url: "http://neeri.res.in"
-- name: ACSiR
-  url: "http://acsir.res.in"
 
-# Short bio (displayed in the user profile at end of posts)
-bio: Sr. Principal Scientist & Professor of ACSir
+# Short bio (displayed in user profile at end of posts)
+bio: Phd Scholar
 
 interests:
   - Sensors
   - Internet of Things
   - Information Communication Technology
-   
+  - Autonomous Vehicles (Vision-based)
+
 education:
-courses:
-- course: ME in Electronics
-institution: Rastrasant Tukadoji Maharaj Nagpur University (RTMNU)
-- course: Master in Information and Library Science
-institution: Indira Gandhi National Open University, New Delhi
-- course: Post Graduate Diploma in Environmental Laws (PGDEL)
-institution: National Law School of India University, Bangalore
-- course: B.Tech in Electronics and Communication
-institution: Shobhit University Meerut(UPTU-LUCKNOW)
+  courses:
+  - course: PhD in Electronics
+    institution: Academy of Scientific and Innovative Research
+    year: 2017-2024
+  - course: M.Tech in Electronics
+    institution: Rastrasant Tukadoji Maharaj Nagpur University
+    year: 2008-2013
+  - course: B.Tech in Electronics and Communnication
+    institution: Shobhit University Meerut
+    year: 2001-2005
 
 social:
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/dr-poonam-shivdutt-kumar-prasad-2514142/
-- icon: twitter
-  icon_pack: fab
-  link: https://mobile.twitter.com/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/
 - icon: globe
   icon_pack: fas
-  link: https://google.com/
+  link: https://www.linkedin.com/in/dr-poonam-shivdutt-kumar-prasad-2514142/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/scinv22
+- icon: twitter
+  icon_pack: fab
+  link: https://mobile.twitter.com/scinv22
+- icon: github
+  icon_pack: fab
+  link: https://github.com/scinv22
 
-# Enter email to display Gravatar (if Gravatar-enabled in Config)
+# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in the author lists. (true/false)
+# Highlight the author in author lists? (true/false)
 highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using the People widget.
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Past Membars
+- PhD Students
 ---
 
 
-Sr. Principal Scientist & Professor of ACSir
