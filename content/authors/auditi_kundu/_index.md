@@ -32,13 +32,13 @@ social:
   link: https://www.linkedin.com/in/auditi-kundu-214742169/?originalSubdomain=in
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/scinv22
+  link: https://www.linkedin.com/in/auditi-kundu-214742169/?originalSubdomain=in
 - icon: twitter
   icon_pack: fab
-  link: https://mobile.twitter.com/scinv22
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/scinv22
+  link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
