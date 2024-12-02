@@ -34,8 +34,6 @@ education:
   - course: B.Tech in Electronics and Communication
   	institution: Shobhit University Meerut(UPTU-LUCKNOW)
 
-
-
 social:
 - icon: linkedin
   icon_pack: fab
