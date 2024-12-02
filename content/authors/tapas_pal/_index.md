@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mr. Tapas Pal
+title: Tapas Pal
 
 # Role/position
 role: PhD Scholar
