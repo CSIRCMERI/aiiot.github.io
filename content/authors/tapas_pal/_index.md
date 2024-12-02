@@ -14,7 +14,7 @@ organizations:
 bio: Phd Scholar
 
 interests:
-  - AI, ML
+  
 
 education:
   courses:
