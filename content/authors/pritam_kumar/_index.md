@@ -23,7 +23,7 @@ interests:
 
 
 # Project summary to display on homepage.
-summary : Currently **Software Engineer at CSIR-CMERI**. 
+summary :  
 
 education:
   courses:
