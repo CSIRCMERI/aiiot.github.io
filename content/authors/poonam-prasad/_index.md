@@ -25,15 +25,12 @@ education:
   - course: ME in Electronics
     institution: Rastrasant Tukadoji Maharaj Nagpur University (RTMNU)
     year: 2008-2013
-
   - course: Master in Information and Library Science
     institution: Indira Gandhi National Open University, New Delhi
     year: 2016-2018
-
   - course: Post Graduate Diploma in Environmental Laws (PGDEL)
   	institution: National Law School of India University, Bangalore
   	year: 2012-2014
-
   - course: B.Tech in Electronics and Communication
   	institution: Shobhit University Meerut(UPTU-LUCKNOW)
   	year: 2001-2005
