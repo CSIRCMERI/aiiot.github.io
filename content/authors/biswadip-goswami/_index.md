@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mr. Biswadev Goswami
+title: Biswadev Goswami
 
 # Role/position
 role: PhD Scholar
