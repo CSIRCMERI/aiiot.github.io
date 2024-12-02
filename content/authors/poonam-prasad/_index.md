@@ -24,7 +24,7 @@ education:
   courses:
   - course: ME in Electronics
     institution: Rastrasant Tukadoji Maharaj Nagpur University (RTMNU)
-    year: 2008-2013
+
   - course: Master in Information and Library Science
     institution: Indira Gandhi National Open University, New Delhi
 
