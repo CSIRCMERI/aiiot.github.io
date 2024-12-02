@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mr. Biswadeb Goswami
+title: Mr. Biswadev Goswami
 
 # Role/position
 role: PhD Scholar
@@ -34,7 +34,7 @@ social:
   link: https://www.linkedin.com/in/biswadev-goswami-31200417/details/education/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/scinv22
+  link: https://www.linkedin.com/in/biswadev-goswami-31200417/details/education/
 - icon: twitter
   icon_pack: fab
   link: https://mobile.twitter.com/scinv22
