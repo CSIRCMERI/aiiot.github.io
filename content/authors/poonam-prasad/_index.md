@@ -23,13 +23,13 @@ interests:
 education:
   courses:
   - course: ME in Electronics
-    institution: Rastrasant Tukadoji Maharaj Nagpur University (RTMNU)
+  institution: Rastrasant Tukadoji Maharaj Nagpur University (RTMNU)
   - course: Master in Information and Library Science
-    institution: Indira Gandhi National Open University, New Delhi
+  institution: Indira Gandhi National Open University, New Delhi
   - course: Post Graduate Diploma in Environmental Laws (PGDEL)
-  	institution: National Law School of India University, Bangalore
+  institution: National Law School of India University, Bangalore
   - course: B.Tech in Electronics and Communication
-  	institution: Shobhit University Meerut(UPTU-LUCKNOW)
+  institution: Shobhit University Meerut(UPTU-LUCKNOW)
 
 social:
 - icon: linkedin
