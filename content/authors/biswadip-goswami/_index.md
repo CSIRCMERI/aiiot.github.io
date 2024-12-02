@@ -37,10 +37,10 @@ social:
   link: https://www.linkedin.com/in/biswadev-goswami-31200417/details/education/
 - icon: twitter
   icon_pack: fab
-  link: https://mobile.twitter.com/scinv22
+  link: https://www.linkedin.com/in/biswadev-goswami-31200417/details/education/
 - icon: github
   icon_pack: fab
-  link: https://github.com/scinv22
+  link:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
