@@ -38,7 +38,7 @@ image:
 projects: []
 publishDate: '2024-04-06T00:00:00Z'
 publication_types:
-- '2'
+- '4'
 abstract: ''
 # publication: '*Proceedings of the 6th Joint International Conference on Data Science \& Management of Data (10th ACM IKDD CODS and 28th COMAD)*'
 ---
