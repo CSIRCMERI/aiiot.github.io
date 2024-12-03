@@ -17,7 +17,6 @@ interests:
   - AI, ML, DL
   - Algorithms
   - Computer Vision
-  - 
 
 education:
   courses:
