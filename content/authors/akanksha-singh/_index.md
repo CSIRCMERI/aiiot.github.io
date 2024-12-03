@@ -16,6 +16,10 @@ bio: Project Assistant at CSIR-CMERI (Present)
 # Project summary to display on the homepage.
 summary: Project Assistant. 
 
+interests:
+  - Computer Vision
+  - Machine Learning
+
 education:
   courses:
   - course: M.Sc in Computer Science with specialization in Data Science
