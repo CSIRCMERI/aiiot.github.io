@@ -37,6 +37,6 @@ projects: []
 publishDate: '2022-01-01T00:00:00Z'
 publication_types:
 - '5'
-abstract: ''
+abstract: 'Deep learning (DL) solutions have been facing the long-standing problem of making the Explainable Artificial Intelligence (XAI) an integral part of the machine learning pipeline. In recent times, multiple deep learning approaches have been established for solving the enhanced complications aroused due to high predictive capacity. Though DL models demonstrate exceptionally high accuracy but the same comes with computationally complex and difficult to interpret black-box architectures. Several efforts are being made to develop the methods for making such high-precision black-box models explainable so that the trustworthiness and reliability of such models can be established. The chapter provides an overview of XAI, different methods of XAI, and metrics associated with those methods. Further, the chapter also discusses the motivational factors behind XAI, its applications, and its taxonomy.'
 publication: '*Explainable AI: Foundations, Methodologies and Applications*'
 ---
