@@ -17,7 +17,8 @@ bio: Project Assistant at CSIR-CMERI (Present)
 summary: Project Assistant. 
 
 interests:
-  - Computer Vision
+  - Web Development
+  - Blockchain
   - Machine Learning
 
 education:
