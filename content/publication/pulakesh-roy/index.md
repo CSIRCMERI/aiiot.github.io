@@ -4,7 +4,7 @@ subtitle: ''
 summary: ''
 authors:
 - Pulakesh Roy
-- Rajesh P Barnwal
+- Rajesh Barnwal
 
 tags: []
 url_pdf: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4wKa0cQAAAAJ&sortby=pubdate&citation_for_view=4wKa0cQAAAAJ:M3NEmzRMIkIC'
