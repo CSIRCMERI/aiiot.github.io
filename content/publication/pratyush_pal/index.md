@@ -3,7 +3,7 @@ title: Experimental Evaluation of Indoor Localization Methods for Industrial IoT
 subtitle: ''
 summary: ''
 authors:
-- Rajesh P Barnwal
+- Rajesh Barnwal
 - Pulakesh Roy
 - Pratyush Kumar Pal
 
