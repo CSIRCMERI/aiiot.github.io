@@ -5,7 +5,7 @@ summary: ''
 authors:
 - Puja Banerjee
 - Susmita Banerjee
-- Rajesh P Barnwal
+- Rajesh Barnwal
 tags: []
 url_pdf: ''
 # url_code: ''
