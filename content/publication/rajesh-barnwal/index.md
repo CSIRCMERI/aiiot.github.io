@@ -12,7 +12,7 @@ authors:
 - Ram Rup Sarkar
 - KC Gouda
 - KV Ramesh
-- Rajesh P Barnwal
+- Rajesh Barnwal
 - Siddhartha Raj
 - Anil Saini
 tags: []
