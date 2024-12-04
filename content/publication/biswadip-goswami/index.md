@@ -6,7 +6,7 @@ authors:
 - Biswadev Goswami
 - Tapas Pal
 - Sagnik Das
-- Rajesh P Barnwal
+- Rajesh Barnwal
 tags: []
 url_pdf: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4wKa0cQAAAAJ&sortby=pubdate&citation_for_view=4wKa0cQAAAAJ:ldfaerwXgEUC'
 # url_code: ''
