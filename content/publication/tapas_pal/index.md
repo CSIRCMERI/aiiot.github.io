@@ -5,7 +5,7 @@ summary: ''
 authors:
 - Tapas Pal
 - Biswadev Goswami
-- Rajesh P Barnwal
+- Rajesh Barnwal
 tags: []
 url_pdf: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4wKa0cQAAAAJ&sortby=pubdate&citation_for_view=4wKa0cQAAAAJ:vV6vV6tmYwMC'
 # url_code: ''
