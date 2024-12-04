@@ -5,7 +5,7 @@ subtitle: ''
 summary: ''
 authors:
 - Arnab Mallick
-- Rajesh P Barnwal
+- Rajesh Barnwal
 tags: []
 url_pdf: 'https://doi.org/10.1145/3700838.3703665'
 # url_code: ''
