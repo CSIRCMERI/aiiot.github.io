@@ -4,7 +4,7 @@ subtitle: ''
 summary: ''
 authors:
 - Suman Chowdhury
-- Rajesh P Barnwal
+- Rajesh Barnwal
 tags: []
 url_pdf: ''
 # url_code: ''
