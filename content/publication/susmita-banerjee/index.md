@@ -4,7 +4,7 @@ subtitle: ''
 summary: ''
 authors:
 - Susmita Banerjee
-- Rajesh P Barnwal
+- Rajesh Barnwal
 - Pradeep Rajan
 
 tags: []
