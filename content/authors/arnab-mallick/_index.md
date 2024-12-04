@@ -32,13 +32,13 @@ education:
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/arnab-mallick1
+  link: https://www.linkedin.com/in/arnabm00/
 - icon: github
   icon_pack: fab
   link: https://github.com/arnab-m1
 - icon: globe
   icon_pack: fas
-  link: https://github.com/arnab-m1
+  link: https://arnab.wiki
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -53,4 +53,4 @@ user_groups:
 - Researchers
 ---
 
-Arnab is a Software Engineer @ CSIR-CMERI who worked on IoT security & distributed systems & Cloud Computing.
+Arnab is a seasoned software engineer and researcher with expertise in designing, developing, and deploying secure IoT solutions, focusing on cloud-based architectures. He played a crucial role in developing CSIR Megha, a pioneering IoT cloud platform for nationwide water quality monitoring under the Jal Jeevan Mission (JJM), supporting over 2 million devices. Arnab ensured the security and compliance of CSIR Megha, leading the audit and certification process for STQC, and facilitated its transfer to CEL and adoption by two startups. Additionally, he created a hyperscaler cloud infrastructure at CSIR-CMERI, deploying 10+ auto-scalable apps, and worked on blockchain-based data transaction and synchronization.
