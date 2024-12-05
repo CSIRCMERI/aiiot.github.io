@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Poonam Shivdutt Kumar (Prasad)
+title: Dr. Poonam Shivdutt Kumar (Prasad)
 
 # Role/position
 role: PhD Scholar
