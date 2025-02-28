@@ -50,7 +50,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Past Members
 ---
 
 Arnab is a software engineer and researcher with expertise in designing, developing, and deploying secure IoT solutions, focusing on cloud-based architectures. He played a crucial role in developing CSIR Megha, a pioneering IoT cloud platform for nationwide water quality monitoring under the Jal Jeevan Mission (JJM), supporting over 2 million devices. Arnab ensured the security and compliance of CSIR Megha, leading the audit and certification process for STQC, and facilitated its transfer to CEL and adoption by two startups. Additionally, he created a hyperscaler cloud infrastructure at CSIR-CMERI, deploying 10+ auto-scalable apps, and worked on blockchain-based data transaction and synchronization.
