@@ -22,7 +22,7 @@ interests:
   - VNF
 
 # Project summary to display on the homepage.
-summary : Currently **Software Engineer at CSIR-CMERI**. 
+summary : **Software Engineer @ CSIR-CMERI currently working in DRDO**. 
 
 education:
   courses:
