@@ -11,7 +11,7 @@ organizations:
   url: http://cmeri.res.in
 
 # Short bio (displayed in user profile at end of posts)
-bio: Project associate at CSIR-CMERI, Durgapur 
+bio: Project associate at CSIR-CMERI, Durgapur currently working at IIT Kgp 
 
 interests:
   - Computer Vision
