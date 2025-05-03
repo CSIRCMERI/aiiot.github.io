@@ -12,7 +12,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently **Software Engineer at CSIR-CMERI**. 
+bio: Currently **Software Engineer CSIR-CMERI currently working in DRDO**. 
 
 interests:
   - Internet of Things
@@ -22,7 +22,7 @@ interests:
   - VNF
 
 # Project summary to display on the homepage.
-summary : **Software Engineer @ CSIR-CMERI currently working in DRDO**. 
+summary : Currently **Software Engineer CSIR-CMERI currently working in DRDO**. 
 
 education:
   courses:
